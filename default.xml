@@ -29,6 +29,11 @@
            sync-j="4"
            revision="refs/heads/13.0" />
 
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/"
+           sync-c="true"
+           sync-j="4" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r30" />
   <contactinfo bugurl="go/repo-bug" />
 
