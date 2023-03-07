@@ -1412,7 +1412,7 @@
   <project path="vendor/nxp/secure_element" name="LineageOS/android_vendor_nxp_secure_element" groups="nxp" />
   <project path="vendor/nxp/secure_element_extns" name="LineageOS/android_vendor_nxp_secure_element_extns" groups="nxp" />
 
-  <project name="surajdazz/device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="rebase"/>
+  <project name="surajdazz/device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="crd"/>
 
   <project name="surajdazz/vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="rebase" clone-depth="1" />
 
